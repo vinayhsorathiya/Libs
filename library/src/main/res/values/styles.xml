@@ -1,0 +1,26 @@
+<resources xmlns:android="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Style_1">
+        <item name="android:foregroundGravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxWidth">250dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:textSize">17sp</item>
+
+        <!--<item name="android:textSize">17sp</item>-->
+        <!--<item name="android:gravity">center</item>-->
+        <!--<item name="android:textColor">#F00</item>-->
+        <!--<item name="android:textStyle">bold</item>-->
+    </style>
+
+    <style name="Style_2">
+        <item name="android:foregroundGravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxWidth">250dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>
